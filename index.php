@@ -74,7 +74,7 @@ font-size: x-small;
 			<input type="text">
 			<label for="">Senha</label>
 			<input type="text">
-			<button>Enviar</button>
+			<button>enviar</button>
 			</form>
 			
 		</div>
