@@ -57,15 +57,11 @@ display: flex;
 }
 .pesquisa{
 width: 100px;
-}
-.buscar{
-	height: 40px;
-	width: 40px;
-	border-radius: 50%;
-	font-size: x-small;
+font-size: x-small;
 	margin-left: 260px;
 	margin-top: 230px;
 }
+
 	</style>
 	
 	
@@ -94,7 +90,7 @@ width: 100px;
 				<input type="text" name="cidade" id="cidade" size="20"><br />
 				
 				<input class="pesquisa" type="text"nome= "txtbusca" placeholder="buscar...">
-				<button class="buscar">buscar</button>
+			<button>pesquisar</button>
 				<button class="botao">enviar</button>
 				</form>
 				</div>
